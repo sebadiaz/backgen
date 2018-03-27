@@ -1,7 +1,7 @@
 int maxTime = 400;
 int strokesPerFrame = 25;
 
-// Add your image here and on line 1 to preload it properly.
+// Add your image here and on line 1 to preload it properly. https://www.openprocessing.org/sketch/400566
 // Works best with images that don't exceed 700px.
 String[] imgNames = {"emma.jpg", "obama.jpg", "clint.jpg"};
 
